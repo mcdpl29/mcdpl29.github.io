@@ -1,0 +1,64 @@
+#container
+{
+	width: 95%
+	position: relative;
+	line-height: 120%
+	margin: 2px;
+	background-color:#eeaaaa;
+	border: 1px solid gray;
+} 
+#nav {
+	font-family: verdana, arial, 'sans serif'; 
+	background-color:#eeaaaa;
+	width:140px;
+	float:left;
+	padding:1px;
+	line-height: 120%;
+	font-size: large;
+}
+#section {
+	font-family: verdana, arial, 'sans serif'; 
+	margin-left: 142px;
+	padding:10px;
+	border-left 1px solid gray;
+	background-color: white;
+}
+#footer {
+	float: bottom; 
+	border-top:1px solid gray;
+	background-color: rgb(220, 220, 220);
+	font-size: small;
+}
+#header {
+	padding: 0.25em;
+	padding-left: 1em;
+	background-color: #eee;
+	border-bottom: 1px solid gray;
+	line-height: 110%;
+	font-size: large; 
+	background-color: rgb(220, 220, 220);
+	margin-left: 0px;
+	padding:3px;
+}
+#section p {
+	margin-top: 0px
+	
+}
+
+#section h1 {
+	margin-top: 0px
+}
+#section a:link {color:rgb(0,0,140); text-decoration:none;}	  
+#section a:visited {color:rgb(0,0,140); text-decoration:none;}	  
+#section a:hover {color:red}
+#section h1, h2, h3 {
+	color: rgb(0,0,140); 
+} 
+#nav a:link {color:darkblue; text-decoration:none;}	  
+#nav a:visited {color:darkblue; text-decoration:none;}	  
+#nav a:active {color:white}
+#nav a:hover {color:yellow}
+#nav p { margin: 0.2em 0 1em 0; }
+#header p {margin: 0.1em 0 0em 0; }
+
+
